@@ -1,0 +1,8 @@
+name: LinkPlugin
+version: '1.0'
+main: de.winniepat.linkPlugin.LinkPlugin
+api-version: '1.21'
+load: STARTUP
+authors: [ WinniePatGG ]
+description: Lobby Plugin
+website: https://www.winniepat.de
